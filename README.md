@@ -1,4 +1,4 @@
-# Matching-product-lists-with-topics-using-word-representation
+# Matching-product-lists-with-topics-using-word-vector-representations
 
 The work shows how we can use pre-trained word vector representations to measure similarity between product lists (words and phrases), to match specific product lists with one of the 9 possible topics:
 0	Electronics & Computers
